@@ -1,4 +1,4 @@
-Hey There! My name is Aditya Ravi and I am studying Software Engineering at Ontario Tech University. I have a passion for programming and I always love to learn new things such as new programming languages and even further improve my skills on languages that I already know. I am currently developing my own website using react.js, HTML, and CSS.
+Hey There! My name is Aditya Ravi and I am studying Software Engineering at Ontario Tech University. I have a passion for programming and I always love to learn new things such as new programming languages and even further improve my skills on languages that I already know.
 
 Feel free to reach out to me using the socials below:
 
